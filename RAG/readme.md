@@ -20,3 +20,9 @@
 
 
 
+## Multi-agent Logic
+
+![from MetaGPT](image.png)
+
+- MetaGPT (the above graph)
+- write report : https://docs.deepwisdom.ai/main/en/guide/use_cases/agent/researcher.html
