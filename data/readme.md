@@ -9,7 +9,7 @@
 - formulate_data.py (convert the data format to our fine-tune format)
 - tool
   - bing_news.py
-  - util.py
+  - util.py (rewrite the akshare library function)
 
 ## News
 - langchain 爬虫： https://www.tizi365.com/article/107.html
