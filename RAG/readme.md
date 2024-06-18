@@ -1,6 +1,12 @@
-#RAG
+# RAG
 
-## Dataset for My capstone
+## RAG file explain
+- `embedding.py` is for split the text and then convert it to embedding format, store it in vector database
+- `CustomLLM.py` is load the LLM for langchain use
+- `RAG.py` --> RAG framework (called the CustomLLM)
+- `Frontend.py` ---> frontend webside to load the model and interact
+
+## Potential Dataset for finetune (update at May 21)
 - https://huggingface.co/datasets/gbharti/finance-alpaca
 - https://github.com/geniayuan/books/blob/main/CFA%202020%20Level%20II%20-%20SchweserNotes%20Book%205.pdf
 - The research paper from financial institution 
@@ -20,7 +26,7 @@
 
 
 
-## Multi-agent Logic
+## Multi-agent Logic reading
 
 ![from MetaGPT](image.png)
 
