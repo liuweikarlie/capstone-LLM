@@ -6,8 +6,10 @@
 - RAG.py --> RAG framework (called the CustomLLM)
 - Frontend.py ---> frontend webside to load the model and interact
 
-## Data folder (load the forecast H share data)
+## Data folder (load the forecast H share pipeline)
 
-# load_model folder
+## load_model folder
+-> you should download the llama.cpp  
+-> get the gguf model
 
 
