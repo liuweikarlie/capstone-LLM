@@ -12,7 +12,7 @@ def decode_html_entities(text):
 class BingSearch:
     def __init__(self,symbol):
         self.symbol=symbol
-        self.subscription_key = "fe3a991cdbc74336b621548a39c03d33"
+        self.subscription_key = "api"
         self.search_url = "https://api.bing.microsoft.com/v7.0/news/search"
         self.headers = {"Ocp-Apim-Subscription-Key" : self.subscription_key}
     def bing_api(self,start_time):
