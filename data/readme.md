@@ -1,6 +1,6 @@
 # Readme
 
-## folder (logic ordering)
+## File Explain (logic ordering)
 - `index.py` store the ticker of the stock
 - `scrap_data.py`
    - get stock return
