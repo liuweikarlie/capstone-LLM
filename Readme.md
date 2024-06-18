@@ -15,3 +15,7 @@ check the data folder readme
 - check the load_model folder readme
 
 
+# Reading
+- [数学计算+ReAct](https://github.com/EvilPsyCHo/Play-with-LLMs/blob/main/examples/llama3-8b-Instruct-ReAct-Agent-advanced.ipynb)
+- [translate agent （Reflection）- Andrew Ng 做的，看了好像并不太难，用的chatgpt，但是听说会很慢](https://github.com/andrewyng/translation-agent)
+  
