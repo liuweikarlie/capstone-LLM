@@ -13,7 +13,7 @@ def encode_image(image_path):
 
 def image_summarize(img_base64, prompt):
     """Make image summary"""
-    chat = ChatOllama(model="llama3", max_tokens=1024)
+    chat = ChatOllama(model="bakllava", temperature=0)
     msg_content = f"{prompt}\n\n![Image](data:image/jpeg;base64,{img_base64})"
     msg = chat.invoke(
         [
